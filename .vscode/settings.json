@@ -7,5 +7,6 @@
     },
     "particle.targetDevice": "PTO1",
     "particle.firmwareVersion": "3.2.0",
-    "particle.targetPlatform": "tracker"
+    "particle.targetPlatform": "tracker",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
